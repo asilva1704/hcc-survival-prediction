@@ -62,11 +62,6 @@ based on real clinical data collected at **CHUC — Coimbra Hospital and Univers
 - Outlier detection using boxplots  
   ![Boxplots](images/2.png)
 
-- Survival vs Death percentages  
-  ![Survival Pie Chart](images/3.png)
-
-- Gender-based survival distribution  
-  ![Survival by Gender](images/10.jpeg)
 
 ### Correlation Analysis
 - Feature correlation with target class  
